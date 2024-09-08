@@ -1,4 +1,4 @@
-<div align="center" border-radius="50%" ><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAxcjM2d255MW12bDFtNzM3dXQ5aTR1cnFxMjIyZHZtMjB1dm9neiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.webp"></div>
+<div align="center" border-radius=50% ><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAxcjM2d255MW12bDFtNzM3dXQ5aTR1cnFxMjIyZHZtMjB1dm9neiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.webp"></div>
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">
