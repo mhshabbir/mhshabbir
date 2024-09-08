@@ -1,17 +1,17 @@
-
-
-
-<div align="center" border-radius: 50%; ><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAxcjM2d255MW12bDFtNzM3dXQ5aTR1cnFxMjIyZHZtMjB1dm9neiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.webp"></div>
+<div align="center" border-radius="50%" ><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAxcjM2d255MW12bDFtNzM3dXQ5aTR1cnFxMjIyZHZtMjB1dm9neiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.webp"></div>
 
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">
-Fullstack Developer <br>
-CS @ CCNY</h3>
+Fullstack Developer & AWS Certified <br>
+Computer Science @ City College New York <br>
+Looking for SWE or Cloud Engineering Roles 
+</h3>
 
 
 ### About me
+➤ Prev Mastercard Intern
 ➤ Based In: **New York City** <br>
-➤ Visit my **<a align="center" href="https://mshabbir.com" target="_blank">Website</a>**  <br>
+➤ Visit my website **<a align="center" href="https://mshabbir.com" target="_blank">mshabbir.com</a>**  <br>
 ➤ Look at my **<a align="center" href="https://mshabbir.com/resume" target="_blank">Resume</a>** <br>
 ➤ Check out my **<a align="center" href="https://www.linkedin.com/in/muhammadhshabbir/" target="_blank">LinkedIn</a>** <br>
 ➤ Contact me: **shabbir.muhammad@outlook.com**
