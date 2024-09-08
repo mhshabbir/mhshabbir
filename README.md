@@ -9,7 +9,7 @@ Looking for SWE or Cloud Engineering Roles
 
 
 ### About me
-➤ Prev Mastercard Intern
+➤ Prev Mastercard Intern <br>
 ➤ Based In: **New York City** <br>
 ➤ Visit my website **<a align="center" href="https://mshabbir.com" target="_blank">mshabbir.com</a>**  <br>
 ➤ Look at my **<a align="center" href="https://mshabbir.com/resume" target="_blank">Resume</a>** <br>
