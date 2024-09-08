@@ -16,7 +16,7 @@ Looking for SWE or Cloud Engineering Roles
 ➤ Check out my **<a align="center" href="https://www.linkedin.com/in/muhammadhshabbir/" target="_blank">LinkedIn</a>** <br>
 ➤ Contact me: **shabbir.muhammad@outlook.com**
 
-### Scholarships:
+### Scholarships
 - Grove School of Engineering Scholar
 - SHPE Engineering Scholar
 - Colin Powell Fellow
